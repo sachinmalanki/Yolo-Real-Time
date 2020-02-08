@@ -1,0 +1,13 @@
+Real Time Object Detection
+
+Download the weights from https://pjreddie.com/media/files/yolov3.weights
+
+To run the program -
+1 - Images
+python3 yolo.py --image-path='D:/images/abc.jpg'
+
+2 - Videos
+python3 yolo.py --video-path='D:/videos/abc.mp4'
+
+3 - Web Cam
+python3 yolo.py
