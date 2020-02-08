@@ -1,6 +1,7 @@
 Real Time Object Detection
 
 Download the weights from https://pjreddie.com/media/files/yolov3.weights
+Place the downloaded file in yolov3-coco directory
 
 To run the program -
 1 - Images
